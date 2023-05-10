@@ -1,2 +1,1 @@
-cewl false
-Niggers false
+page1 false
